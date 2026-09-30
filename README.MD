@@ -23,7 +23,7 @@ An end-to-end Retrieval-Augmented Generation (RAG) system that ingests PDFs, gen
 
 # Demo
 
-![Demo](https://github.com/Edwin-Jaya/AI-Engineer-Projects/blob/main/RAG-Powered%20PDF%20QA%20System/readme_assets/demo.gif)
+![Demo](https://github.com/Edwin-Jaya/RAG-Powered-PDF-QA-System/blob/main/readme_assets/demo.gif)
 
 # Tech stack
 
@@ -104,7 +104,7 @@ LLM_API=
 
 # Flow And Architecture
 The diagram below illustrates the high-level architecture of the Retrieval-Augmented Generation (RAG) system implemented in this project.
-![General Architecture](https://github.com/Edwin-Jaya/AI-Engineer-Projects/blob/main/RAG-Powered%20PDF%20QA%20System/readme_assets/general_architecture.png)
+![General Architecture](https://github.com/Edwin-Jaya/RAG-Powered-PDF-QA-System/blob/main/readme_assets/general_architecture.png)
 
 # Troubleshooting & gotchas
 
